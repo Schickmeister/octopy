@@ -1,0 +1,12 @@
+Attempted to make my own perlin noise implementation, but eventually downloaded a module for it
+Started sorting colors in the histogram by their "distance" to white
+Mapped colors in the histogram to values between 0 and 255 to map histogram colors to noise
+Added a fade function so that there's a smooth transition between colors
+Drew a pixel octopus alpha mask
+Added a function that applies the octopus mask to colored noise, and generates an octopus image
+Manually add octopi to the image
+Automatically randomly add octopi to image
+Octopi are deleted when clicked
+Timer added
+Game cycles through images after all octopi in a level have been clicked
+Game says "you won" when all levels are complete, and "you lost" when time runs out
