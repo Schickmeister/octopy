@@ -1,0 +1,4 @@
+./images/beach.jpg:1:1
+./images/andes.jpg:1:1
+./images/forest.jpg:1:1
+./images/lavender.jpg:1:1
