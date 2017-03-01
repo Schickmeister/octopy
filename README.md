@@ -1,8 +1,8 @@
-#Octo.py | Austin Schick 15-112 Term Project
+# Octo.py | Austin Schick 15-112 Term Project
 
 ### [Project Video] (https://www.youtube.com/watch?v=87SCdgNYX68)
 
-###Description
+### Description
 
 Octo.py is a "find the hidden object" type game with a twist: the objects hide themselves. Players are able to upload their own images to the game. Then by analyzing the image, the game generates camouflage patterns to overlay on octopi, and hides the octopi in the image for players to find. 
 
